@@ -15,12 +15,12 @@ from experts.Coder import Coder
 from experts.InstanceDataSetGenerator import InstanceDataSetGenerator
 
 #option
-model_name= "qwen2.5:32b"//change model
+model_name= "model name"//모델 설정
 url = "http://localhost:11434/api/generate"
 data_set='newset'
-problem_name='tsppc'
+problem_name='문제'//문제 설정
 max_trial = 3
-threshold=0.8
+threshold=0.8//임계값 설정
 jsonl_path = f"dataset/newset/final.jsonl"
 
 def save_output(content, filename, extension):
