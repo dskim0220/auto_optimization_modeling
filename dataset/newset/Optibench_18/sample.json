@@ -1,0 +1,13 @@
+[
+  {
+    "input": {
+      "Workers on Production Line 1": "20.0",
+      "Workers on Production Line 2": "6.0",
+      "Workers on Production Line 3": "4.0",
+      "Workers on Production Line 4": "20.0"
+    },
+    "output": [
+      2.688172043010753
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+A tech company is planning to launch five new software products: AppX, AppY, AppZ, AppW, and AppV. 
+They need to decide how many development teams to allocate to each product for the upcoming quarter. 
+For product APPX, the Estimated Revenue per Team is $100,000, the Development Cost per Team is $60,000, and the Marketing Cost per Team is $20,000.
+For product APPY, the Estimated Revenue per Team is $150,000, the Development Cost per Team is $80,000, and the Marketing Cost per Team is $30,000. 
+For product APPZ, the Estimated Revenue per Team is $200,000, the Development Cost per Team is $100,000, and the Marketing Cost per Team is $40,000. 
+For product APPW, the Estimated Revenue per Team is $120,000, the Development Cost per Team is $70,000, and the Marketing Cost per Team is $25,000. 
+For product APPV, the Estimated Revenue per Team is $180,000, the Development Cost per Team is $90,000, and the Marketing Cost per Team is $35,000. 
+The company wants to maximize the average net profit per team. 
+The company has a total of 30 development teams available for the quarter. 
+Due to market research, the company knows that AppX must have at least twice as many development teams as AppY. 
+The company has a budget of $2,500,000 for marketing costs for the quarter. 
+The company wants to ensure that each product has at least one team working on it. 
+At least two teams are required to be assigned to the AppX development project.
+The total number of development teams assigned to AppX, AppY, AppW, and AppV combined must not exceed 10 teams.
+The total number of development teams assigned to AppZ and AppV combined must not exceed 28 teams.

@@ -1,0 +1,14 @@
+[
+  {
+    "input": {
+      "Number of AppX Teams": "2.0",
+      "Number of AppY Teams": "1.0",
+      "Number of AppZ Teams": "25.0",
+      "Number of AppW Teams": "1.0",
+      "Number of AppV Teams": "1.0"
+    },
+    "output": [
+      "55333.33333333333"
+    ]
+  }
+]

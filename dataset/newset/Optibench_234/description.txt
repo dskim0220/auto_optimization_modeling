@@ -1,0 +1,15 @@
+A logistics company is managing the distribution of three types of goods: GoodsX, GoodsY, and GoodsZ.
+The company needs to decide how many trucks to allocate for each type of good to optimize delivery efficiency and minimize costs. 
+Additionally, the company can invest in route optimization software to reduce travel time and fuel consumption, which affects the cost and efficiency of each delivery. 
+The initial cost per truck for GoodsX is $1,000, but with optimization, the cost decreases by $10 for every $100 invested in optimization. 
+The initial cost per truck for GoodsY is $1,200, and with optimization, the cost decreases by $12 for every $100 invested in optimization. 
+The initial cost per truck for GoodsZ is $1,500, and with optimization, the cost decreases by $15 for every $100 invested in optimization. 
+The company aims to minimize the total delivery cost for all goods. 
+The company has a total of 50 trucks available for allocation. 
+The budget for route optimization software is $10,000. 
+Due to contractual obligations, the company must allocate at least 10 trucks for GoodsX and 15 trucks for GoodsY.
+The total number of trucks allocated for GoodsZ must not exceed 25 units. 
+The total cost reduction for GoodsZ cannot exceed $37,500.
+The combined cost reduction for GoodsX, GoodsY, and GoodsZ must be positive.
+The company wants to ensure that the total investment in optimization does not exceed the total cost savings from using the software. 
+The reduction in delivery costs is linearly proportional to the amount of investment in route optimization software for each type of good.

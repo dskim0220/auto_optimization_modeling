@@ -1,0 +1,15 @@
+[
+  {
+    "input": {
+      "Number of Trucks for GoodsX": "10.0",
+      "Number of Trucks for GoodsY": "15.0",
+      "Number of Trucks for GoodsZ": "0.0",
+      "Investment in Optimization for GoodsX": "0.0",
+      "Investment in Optimization for GoodsY": "10000.0",
+      "Investment in Optimization for GoodsZ": "0.0"
+    },
+    "output": [
+      "18000.0(18000-10000=8000 possible)"
+    ]
+  }
+]

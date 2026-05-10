@@ -1,0 +1,16 @@
+A manufacturing company produces three types of electronic devices: smartphones, tablets, and laptops. 
+The company has four different production lines, each with varying efficiency and capacity. 
+On production line 1, each worker produces 10 smartphones, 5 tablets, and 3 laptops per hour. 
+On production line 2, each worker produces 8 smartphones, 6 tablets, and 4 laptops per hour. 
+On production line 3, each worker produces 6 smartphones, 7 tablets, and 5 laptops per hour. 
+On production line 4, each worker produces 5 smartphones, 8 tablets, and 6 laptops per hour. 
+The company needs to produce at least 1000 smartphones, 800 tablets, and 600 laptops daily. 
+The production lines can only be operated or shut down at the same time. 
+Determine the minimum number of hours needed to meet the daily demand. 
+There are a total of 50 workers available. 
+Each production line can be staffed by up to 20 workers at a time. 
+The company wants to ensure that at least one production line is fully staffed (20 workers) if it is operational. 
+Each production line has different productivity rates for each device.
+If any production line is staffed with 20 workers, the combined number of workers on all other lines must not exceed 30.
+It is strictly prohibited to staff three out of the four production lines with 20 workers simultaneously.
+A maximum staffing constraint of 10 workers applies specifically to production line 3.

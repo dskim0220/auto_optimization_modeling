@@ -1,0 +1,16 @@
+[
+  {
+    "input": {
+      "Number of workers starting on Monday": "5.0",
+      "Number of workers starting on Tuesday": "7.0",
+      "Number of workers starting on Wednesday": "0.0",
+      "Number of workers starting on Thursday": "7.0",
+      "Number of workers starting on Friday": "0.0",
+      "Number of workers starting on Saturday": "3.0",
+      "Number of workers starting on Sunday": "0.0"
+    },
+    "output": [
+      "22.0"
+    ]
+  }
+]
