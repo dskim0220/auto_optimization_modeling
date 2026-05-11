@@ -1,7 +1,7 @@
 # LLM 기반 최적화 모델 생성 멀티 에이전트 아키텍처 구현
 
 ## 1. e2e 모델 구조(E2E model architecture)
-  ![e2e 모델 구조](./image/e2e_architecture.png)
+  <img src="./image/e2e_architecture.png" width="500">
 
 ## 2. 에이전트(Agents)
   *BasicModelInterpreter: 자연어 문제 쿼리에서 인스턴스, 목적함수, 제약조건 등 추출
@@ -15,7 +15,7 @@
   *InstanceDataSetGenerator: 문제 쿼리에서 인스턴스 정보를 추출
 
 ## 3. e2e 모델 수도코드(pseudo code)
-  ![e2e 모델 수도코드](./image/e2e_pseudocode.png)
+  <img src="./image/e2e_pseudocode.png" width="500">
 
 ## 3. 실험 환경(Experiment setting)
   *모델: Qwen2.5-3B-Instruct
@@ -27,4 +27,4 @@
   *최대 시도 횟수: 3
 
 ## 4. 성능 비교(Performance Benchmark)
-  ![성능 비교](./image/benchmark_result.png)
+  <img src="./image/benchmark_result.png" width="500">
