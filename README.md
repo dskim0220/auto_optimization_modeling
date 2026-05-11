@@ -4,7 +4,9 @@
 
 ### Tech Stack
 **Language:** Python
+
 **LLM:** Qwen2.5-3B-Instruct
+
 **Optimization Solver:** Gurobi
 
 ## 1. e2e 모델 구조(E2E model architecture)
